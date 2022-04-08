@@ -22,6 +22,11 @@
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" />
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<!-- 	<img align="center" alt="Gif-Sora" height="150" style="border-radius:50px;" src="https://tenor.com/view/nogamenolife-sora-coin-flipping-anime-gif-6238123"> -->
+																	    
+	
+</div>
+																	  
 
 </div>
 <div  align="right"> 
