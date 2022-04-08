@@ -25,6 +25,8 @@
 
 </div>
 <div  align="right"> 
+
   <a href="https://www.linkedin.com/in/mateus-malheiros-soeiro-0b1327219/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://discordapp.com/users/253891746889465856/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
 </div>
