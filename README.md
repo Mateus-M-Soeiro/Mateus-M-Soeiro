@@ -21,13 +21,12 @@
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-line.svg" />
-	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<!-- 	<img align="center" alt="Gif-Sora" height="150" style="border-radius:50px;" src="https://tenor.com/view/nogamenolife-sora-coin-flipping-anime-gif-6238123"> -->
-																	    
+	<img height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />		    
 	
 </div>
-																	  
-
+		
+<div align="center">
+<img align="center" alt="Gif-Sora" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/735299036881485898/961804291323072514/no-game-no-life.gif"> 
 </div>
 <div  align="right"> 
 
