@@ -1,12 +1,10 @@
-🇧🇷🇧🇷 **Hallo, Ich heiße Mateus** 🇧🇷🇧🇷
+🇧🇷🇧🇷 **Meu nome é Mateus** 🇧🇷🇧🇷
 
 -🔭 Atualmente curso ΣΣ **Engenharia da Computação** ΣΣ
 
--🌱 Estudando o Framework *Kivy* para 🐍🐍𝗣𝗬𝗧𝗛𝗢𝗡🐍🐍
-
 -📫 Contato pelo E-mail: mateusmsoeiro@outlook.com.br 
 
-<!-- Dankeschön Rafaella Ballerini -->
+<!-- Vlw Rafaella Ballerini -->
 
 <div align="center">
   <a href ="https://github.com/Mateus-M-Soeiro">
