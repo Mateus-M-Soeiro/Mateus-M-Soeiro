@@ -1,12 +1,12 @@
-🇧🇷🇧🇷 **Meu nome é Mateus** 🇧🇷🇧🇷
+🇧🇷🇧🇷 **Olá, me chamo Mateus. Muito Prazer.** 🇧🇷🇧🇷
 
--🔭 Atualmente curso ΣΣ **Engenharia da Computação** ΣΣ
+-🔭 Atualmente estou no 9º ciclo de ΣΣ **Engenharia da Computação** ΣΣ
 
 -📫 Contato pelo E-mail: mateusmsoeiro@outlook.com.br 
 
 <!-- Vlw Rafaella Ballerini -->
 
-<div align="center">
+<!--div align="center">
   <a href ="https://github.com/Mateus-M-Soeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mateus-M-Soeiro&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateus-M-Soeiro&layout=compact&langs_count=7&theme=graywhite"/>
